@@ -15,32 +15,32 @@ Applied Autoencoders and LDA (Linear Discriminant Analysis) to extract meaningfu
 🔹 Classical ML Models
 Used traditional ML algorithms:
 
-KNN
++ KNN
 
-SVM
++ SVM
 
-Linear Regression
++ Linear Regression
 
-Naive Bayes
++ Naive Bayes
 
 Evaluated performance using metrics:
 
-Accuracy
++ Accuracy
 
-Precision
++ Precision
 
-Recall
++ Recall
 
-F1 Score
++ F1 Score
 
 🔹 Deep Learning Models
 Explored Neural Networks:
 
-MLP (Multi-Layer Perceptron)
++ MLP (Multi-Layer Perceptron)
 
-Basic CNN
++ Basic CNN
 
-Deep CNN
++ Deep CNN
 
 Achieved better accuracy through convolutional architectures.
 
@@ -59,3 +59,6 @@ Use transfer learning (e.g., with pretrained models like ResNet).
 Try object detection to classify Pokémon in scenes.
 
 Extend to other Pokémon generations!
+
+📫 Contact
+Feel free to reach out if you have any questions!!!
