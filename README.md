@@ -5,12 +5,13 @@ This repository contains my university project on Machine Learning, where I comb
 🎯 Project Objective
 The aim of this project was to learn and apply basic Machine Learning concepts to a topic of our choice.
 Being a lifelong Pokémon fan, I decided to explore the world of Gen 1 Pokémon using ML techniques.
+Specifically, the classification was based on the Pokemon elemeental types (water,fire,grass,etc.)
 
 📚 What I Did
 🔹 Data Collection & Feature Extraction
 Collected images of Gen 1 Pokémon from five Kaggle datasets.
 
-Applied Autoencoders and LDA (Linear Discriminant Analysis) to extract meaningful features.
+Applied Autoencoders and LDA to extract features.
 
 🔹 Classical ML Models
 Used traditional ML algorithms:
@@ -42,23 +43,22 @@ Explored Neural Networks:
 
 + Deep CNN
 
-Achieved better accuracy through convolutional architectures.
+Achieved 89% accuracy using Deep CNN.
 
 📌 Notes
-The data cleaning notebook is not included in the repo.
++ The data cleaning notebook is not included in the repo.
 
-Each notebook is structured to be understandable and reproducible.
++ Each notebook is structured to be understandable and reproducible.
 
-The report includes detailed steps, challenges, and results.
++ The report includes detailed steps, challenges, and results.
 
 🚀 Future Work
-Some ideas to expand this project:
 
-Use transfer learning (e.g., with pretrained models like ResNet).
++ Classify the images based on the evolution lines (Charmander, Charmeleon, Charizard)
 
-Try object detection to classify Pokémon in scenes.
++ Classify the whole 151 Pokemon!
 
-Extend to other Pokémon generations!
++ Extend to other Pokémon generations!
 
 📫 Contact
 Feel free to reach out if you have any questions!!!
