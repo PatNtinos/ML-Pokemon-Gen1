@@ -1,16 +1,16 @@
-# Hellooooooooooo
+# 👋Hellooooooooooo
 
 Welcome to the documentation of the ML project.
 Here I'll explain all the steps I followed to create this project!!!
 
 ## Lets Begin!
 
-### Data Prosecing 
+### 🧹Data Processing 
 
 Firstly, I downloaded all the images from the five repositories. I had gathered over 44k images.
 However, I deleted 20k images due to issues like wrong pokemon labelling , multiple pokemon, too much background noise, bad quality, fanarts, etc.
 
-Note:The final dataset is not included in this repository
+📌Note:The final dataset is not included in this repository
 
 At first i tried to classify all 151 pokemon or by their evolution lines but the results weren't great.
 So I simplified the task to classify Pokemon based on their elemental types.
@@ -20,7 +20,7 @@ So there isn't any Flying class as all flying pokemon have dual type. Moreover t
 
 On the Data Process Notebook you can see some plots of how the images are distributed to each class!!!
 
-## Notebooks
+## 📘Notebooks
 
 ### LDA Notebook
 
